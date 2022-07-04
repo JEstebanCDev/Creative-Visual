@@ -4,18 +4,23 @@ Make a good and interesing canvas sketchs with the the framework canvas-sketch f
 To run the project first of all, you must have node.js and npm
 
 -Install the CLI tool globally
+<br>
 npm install canvas-sketch-cli -g
 
 -Install the CLI tool globally
+<br>
 npm install canvas-sketch-cli -g
 
 -Make a new folder to hold all your generative sketches
+<br>
 mkdir my-sketches
 
 -Move into that folder
+<br>
 cd my-sketches
 
 -Scaffold a new 'sketch.js' file and open the browser
+<br>
 canvas-sketch sketch.js --new --open
 
 This are my creations following a course from domestika 
